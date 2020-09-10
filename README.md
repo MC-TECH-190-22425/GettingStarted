@@ -1,3 +1,26 @@
+# 20200910 Getting started with Unity
+
+1. Unity Editor
+2. Creating and labeling files and folders
+3. Asset Store
+4. Creating a 2D platformer
+5. Exploring Unity Tutorials
+
+### Links
+- [Unity Docs: Using the Editor](https://docs.unity3d.com/Manual/UsingTheEditor.html)
+
+- [Unity Standard Asset Pack](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)
+
+
+
+
+
+
+
+
+#END SECTION#
+
+---
 # Start_Unity_Github_Project
 Use this template to start a Unity3D project using Git and Github. 
 
